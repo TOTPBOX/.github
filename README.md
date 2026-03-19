@@ -1,2 +1,3 @@
 # .github
-Community health files, CONTRIBUTING guide, and default issue templates for all TOTPBOX repositories
+
+Org profile README, issue templates, and community health files for TOTPBOX repositories
